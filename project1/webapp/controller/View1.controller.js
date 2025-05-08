@@ -11,11 +11,11 @@ sap.ui.define([
             let a = 5;
             let b = 10;
 
-            // Multiply the variables
-            let result = a * b;
+            // Add the variables
+            let result = a + b;
 
             // Display the result
-            alert("The product of a and b is: " + result);
+            alert("The sum of a and b is: " + result);
         }
     });
 });
