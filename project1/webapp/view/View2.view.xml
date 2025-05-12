@@ -2,9 +2,9 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m"
     controllerName="project1.controller.View2">
-    <Page title="View 2">
+    <Page id="page1" title="View 2">
         <content>
-            <Text text="Welcome to View 2!" />
+            <Text id="text1" text="Welcome to View 2!" />
         </content>
     </Page>
 </mvc:View>

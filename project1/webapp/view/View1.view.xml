@@ -6,7 +6,7 @@
         <content>
             <Text id="text" text="{i18n>text}" />
             <Button id="button" text="{i18n>button}" press="onPress" />
-            <Button text="Go to View 2" press="onNavigateToView2" />
+            <Button id="tets" text="Go to View 2" press="onNavigateToView2" />
         </content>
     </Page>
 </mvc:View>
